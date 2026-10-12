@@ -1,0 +1,4 @@
+opencv-python>=4.8
+numpy>=1.24
+pyserial>=3.5      # for --serial
+bleak>=0.21        # for --ble
